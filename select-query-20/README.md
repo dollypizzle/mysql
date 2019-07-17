@@ -1,4 +1,4 @@
-# Select Query 19
+# Select Query 20
 P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
 
     * 
