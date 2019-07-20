@@ -1,4 +1,4 @@
-# Select Query 20
+# Draw The Triangle 2
 P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5):
 
     * 
