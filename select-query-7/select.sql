@@ -1,2 +1,0 @@
-SELECT city,state
-FROM station;
