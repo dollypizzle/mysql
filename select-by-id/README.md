@@ -1,4 +1,4 @@
-# Select Query 4
+# Select By Id
 Query all columns for a city in CITY with the ID 1661.
 
 The CITY table is described as follows: 
