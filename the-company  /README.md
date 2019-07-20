@@ -1,4 +1,4 @@
-# Select Query 24
+# The Company
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy: 
 
 ![Input Table](https://s3.amazonaws.com/hr-challenge-images/19505/1458531031-249df3ae87-ScreenShot2016-03-21at8.59.56AM.png)
