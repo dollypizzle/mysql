@@ -1,4 +1,4 @@
-# Select Query 3
+# Select-All-Sql
 Query all columns (attributes) for every row in the CITY table.
 
 The CITY table is described as follows: 
