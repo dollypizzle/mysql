@@ -9,6 +9,6 @@ CASE
             ELSE 'Scalene'
         END
     )
-    ELSE 'Not A Triangle'
+    ELSE 'Not a Triangle'
 END
 FROM TRIANGLES;
