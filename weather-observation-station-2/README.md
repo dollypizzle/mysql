@@ -1,4 +1,4 @@
-# Weather Observation Station 2
+#  Weather Observation Station 2
 Query the following two values from the STATION table:
 
 1. The sum of all values in LAT_N rounded to a scale of 2 decimal places.
